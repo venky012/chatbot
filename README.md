@@ -1,2 +1,2 @@
 # chatbot
-A basic chatbot based on CSS, Javascript and Firebase
+A basic chatbot based using CSS, Javascript and Firebas
