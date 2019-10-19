@@ -5,7 +5,7 @@
     <title>Chatbot</title>
     <link rel="stylesheet" href="css/main.css" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
-	<!-- call for firebase --->
+
     <script src="https://www.gstatic.com/firebasejs/5.8.1/firebase.js"></script>
     <script>
       var config = {
